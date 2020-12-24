@@ -12,7 +12,7 @@ In order to analyze each NBA player's statistics from the 2019-2020 season, I pu
 # Process & Repository Contents
 
 * ***Dataset:*** data from https://www.basketball-reference.com/
-  * [2019-2020 NBA Stats.xlsx] (https://github.com/KenHoffman95/Fantasy-Basketball-Preseason-Analysis-2020/blob/main/2019-2020%20NBA%20Stats.xlsx)
+  * [2019-2020 NBA Stats.xlsx](https://github.com/KenHoffman95/Fantasy-Basketball-Preseason-Analysis-2020/blob/main/2019-2020%20NBA%20Stats.xlsx)
 * ***Data Cleaning, Feature Engineering and EDA:*** cleaning data, engineering new features and performing exploratory data analysis
-  * [Data Cleaning, Feature Engineering and EDA Pt. 1.ipynb] (https://github.com/KenHoffman95/Fantasy-Basketball-Preseason-Analysis-2020/blob/main/Data%20Cleaning%2C%20Feature%20Engineering%20and%20EDA%20Pt.%201.ipynb) (Complete Dataset)
-  * [Data Cleaning, Feature Engineering and EDA Pt. 2.ipynb] (https://github.com/KenHoffman95/Fantasy-Basketball-Preseason-Analysis-2020/blob/main/Data%20Cleaning%2C%20Feature%20Engineering%20and%20EDA%20Pt.%202.ipynb) (Top 263 Players)
+  * [Data Cleaning, Feature Engineering and EDA Pt. 1.ipynb](https://github.com/KenHoffman95/Fantasy-Basketball-Preseason-Analysis-2020/blob/main/Data%20Cleaning%2C%20Feature%20Engineering%20and%20EDA%20Pt.%201.ipynb) (Complete Dataset)
+  * [Data Cleaning, Feature Engineering and EDA Pt. 2.ipynb](https://github.com/KenHoffman95/Fantasy-Basketball-Preseason-Analysis-2020/blob/main/Data%20Cleaning%2C%20Feature%20Engineering%20and%20EDA%20Pt.%202.ipynb) (Top 263 Players)
