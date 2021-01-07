@@ -20,7 +20,7 @@ In order to analyze each NBA player's statistics from the 2019-2020 season, I pu
 # Findings
 Through my analysis, I was able to build a metric that measures each NBA player's fantasy value. The metric assigns a value (0, 1, 2, 3) to each statistical category for a player based on how well they performed in that category compared to the rest of the league. For example, if a player's output in a statistic is in the top 25% of all players, that player receives a 3 for that statistic, whereas, if a players output in a statistic is in the top 50% of all players, but not in the top 25%, that same player would receive a 2. Once a player is assigned a value from 0 to 3 for each statistic, the player's values are then summed to create the Overall Fantasy Value Metric. My analysis yielded the following results:
 
-###### Top 10 Point Guards:
+## Top 10 Point Guards:
 1. Kyrie Irving
 2. Kyle Lowry
 3. Russell Westbrook
@@ -32,7 +32,7 @@ Through my analysis, I was able to build a metric that measures each NBA player'
 9. Chris Paul
 10. Steph Curry
 
-###### Top 10 Shooting Guards:
+## Top 10 Shooting Guards:
 1. James Harden
 2. Bradley Beal
 3. Zach Lavine
@@ -44,5 +44,40 @@ Through my analysis, I was able to build a metric that measures each NBA player'
 9. DeMar DeRozan
 10. Fred VanVleet
 
+## Top 10 Small Forwards:
+1. Kawhi Leonard
+2. Lebron James
+3. Jimmy Butler
+4. Will Barton
+5. Tobias Harris
+6. Paul George
+7. Gordon Hayward
+8. Kelly Oubre
+9. Khris Middleton
+10. Jae Crowder
+
+## Top 10 Power Forwards:
+1. Giannis Antetokounmpo
+2. Anthony Davis
+3. LaMarcus Aldridge
+4. Jayson Tatum
+5. Pascal Siakam
+6. Nemanja Bjelica
+7. Bam Adebayo
+8. John Collins
+9. Brandon Ingram
+10. Domantas Sabonis
+
+## Top 10 Centers
+1. Joel Embiid
+2. Nikola Jokic
+3. Karl-Anthony Towns
+4. Nikola Vucevic
+5. Kristaps Porzingis
+6. Jusuf Nurkic
+7. Deandre Ayton
+8. Andre Drummond
+9. Jonas Valanciunas
+10. Thomas Bryant
 
 
