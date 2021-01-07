@@ -32,7 +32,7 @@ Through my analysis, I was able to build a metric that measures each NBA player'
 9. Chris Paul
 10. Steph Curry
 
-## Top 10 Shooting Guards:
+#### Top 10 Shooting Guards:
 1. James Harden
 2. Bradley Beal
 3. Zach Lavine
@@ -44,7 +44,7 @@ Through my analysis, I was able to build a metric that measures each NBA player'
 9. DeMar DeRozan
 10. Fred VanVleet
 
-## Top 10 Small Forwards:
+#### Top 10 Small Forwards:
 1. Kawhi Leonard
 2. Lebron James
 3. Jimmy Butler
@@ -56,7 +56,7 @@ Through my analysis, I was able to build a metric that measures each NBA player'
 9. Khris Middleton
 10. Jae Crowder
 
-## Top 10 Power Forwards:
+#### Top 10 Power Forwards:
 1. Giannis Antetokounmpo
 2. Anthony Davis
 3. LaMarcus Aldridge
@@ -68,7 +68,7 @@ Through my analysis, I was able to build a metric that measures each NBA player'
 9. Brandon Ingram
 10. Domantas Sabonis
 
-## Top 10 Centers
+#### Top 10 Centers
 1. Joel Embiid
 2. Nikola Jokic
 3. Karl-Anthony Towns
